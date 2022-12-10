@@ -5,3 +5,4 @@ dosya 1 olusturuldu.
 
 
 
+dosya ıcerıklerı arttırıldı.
