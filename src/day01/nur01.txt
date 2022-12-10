@@ -6,3 +6,6 @@ dosya 1 olusturuldu.
 
 
 dosya ıcerıklerı arttırıldı.
+
+
+dosya ıcerıklerı detaylandırıldı.
